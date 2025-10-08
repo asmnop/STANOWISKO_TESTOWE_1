@@ -1,16 +1,17 @@
 # STANOWISKO_TESTOWE_1
 
-# BAZOWANIE:
+## BAZOWANIE:
 -po włączeniu zasilania karetka może sygnalizować dwa stany:
 ---brak wykrycia przez czujnik,
 ---czujnik wykrył położenie karetki,
 
-PROCEDURA BAZOWANIA:
+## PROCEDURA BAZOWANIA:
 -brak wykrycia: spoglądamy do urządzenia i sprawdzamy, w którym położeniu znajduje się karetka,
 -jeśli znaduje się pomiędzy czujnikami to wykonujemy dowolny sposób bazowania w sensie pierwszy dojazd do wybranego czujnika,
--
 
-# BRAK WYKRYCIA PRZEZ CZUJNIK:
+
+
+## BRAK WYKRYCIA PRZEZ CZUJNIK:
 -karetka znajduje się w polu pracy czyli pomiędzy czujnikami,
 -karetka znajduje się poza polem pracy: może znajdować się poza polem pracy w pobliżu czujnika X1 albo czujnika X2,
 
